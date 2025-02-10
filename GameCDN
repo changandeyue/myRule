@@ -1,0 +1,71 @@
+# NAME: Game_CDN
+# AUTHOR: changandeyue
+# REPO: https://github.com/changandeyue/chatgpt
+# Steam 下载 CDN 地址
+# 来源：https://www.dogfight360.com/blog/knowledge-base/fix_steamdl_region/
+# 更新日期 2025/2/10
+# 解决 Steam 等下载 CDN 走代理的问题
+
+# Steam 下载节点 CDN 地址
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamserver.net
+IP-CIDR,45.121.184.0/24,no-resolve
+IP-CIDR,103.10.124.0/23,no-resolve
+IP-CIDR,103.28.54.0/24,no-resolve
+IP-CIDR,146.66.152.0/24,no-resolve
+IP-CIDR,146.66.155.0/24,no-resolve
+IP-CIDR,153.254.86.0/24,no-resolve
+IP-CIDR,155.133.224.0/22,no-resolve
+IP-CIDR,155.133.230.0/24,no-resolve
+IP-CIDR,155.133.232.0/23,no-resolve
+IP-CIDR,155.133.234.0/24,no-resolve
+IP-CIDR,155.133.236.0/22,no-resolve
+IP-CIDR,155.133.240.0/23,no-resolve
+IP-CIDR,155.133.244.0/23,no-resolve
+IP-CIDR,155.133.246.0/24,no-resolve
+IP-CIDR,155.133.248.0/21,no-resolve
+IP-CIDR,162.254.192.0/21,no-resolve
+IP-CIDR,185.25.182.0/23,no-resolve
+IP-CIDR,190.217.32.0/22,no-resolve
+IP-CIDR,192.69.96.0/22,no-resolve
+IP-CIDR,205.196.6.0/24,no-resolve
+IP-CIDR,208.64.200.0/22,no-resolve
+IP-CIDR,208.78.164.0/22,no-resolve
+IP-CIDR,205.185.194.0/24,no-resolve
+
+# Roti - 游戏更新/下载
+DOMAIN-REGEX,^(lol|ks-foundation|riot-client|mock-game|valorant|wildrift|ares|bacon|ritoplus|global)?(\.secure)?\.dyn\.riotcdn\.net$
+
+#DOMAIN-SUFFIX,lol.secure.dyn.riotcdn.net
+#DOMAIN-SUFFIX,ks-foundation.secure.dyn.riotcdn.net
+#DOMAIN-SUFFIX,riot-client.secure.dyn.riotcdn.net
+#DOMAIN-SUFFIX,mock-game.secure.dyn.riotcdn.net
+#DOMAIN-SUFFIX,valorant.secure.dyn.riotcdn.net
+#DOMAIN-SUFFIX,wildrift.secure.dyn.riotcdn.net
+#DOMAIN-SUFFIX,ares.secure.dyn.riotcdn.net
+#DOMAIN-SUFFIX,bacon.secure.dyn.riotcdn.net
+#DOMAIN-SUFFIX,ritoplus.secure.dyn.riotcdn.net
+#DOMAIN-SUFFIX,wildrift.dyn.riotcdn.net
+#DOMAIN-SUFFIX,lol.dyn.riotcdn.net
+#DOMAIN-SUFFIX,dyn.riotcdn.net
+#DOMAIN-SUFFIX,valorant.dyn.riotcdn.net
+#DOMAIN-SUFFIX,global.dyn.riotcdn.net
+#DOMAIN-SUFFIX,mock-game.dyn.riotcdn.net
+#DOMAIN-SUFFIX,ks-foundation.dyn.riotcdn.net
+#DOMAIN-SUFFIX,riot-client.dyn.riotcdn.net
+
+# Epic Games - 游戏下载[Azamon]
+DOMAIN-REGEX,^download[1-9]?\.epicgames\.com$
+
+#DOMAIN-SUFFIX,download.epicgames.com
+#DOMAIN-SUFFIX,download2.epicgames.com
+#DOMAIN-SUFFIX,download3.epicgames.com
+#DOMAIN-SUFFIX,download4.epicgames.com
+
+# Epic Game - 游戏下载[中国区]
+DOMAIN-SUFFIX,epicgames-download1-1251447533.file.myqcloud.com
+
+# Ubisoft Connect(Uplay) - 游戏下载(中国大陆地区)
+DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubionline.com.cn
+
+
