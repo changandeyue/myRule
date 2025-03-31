@@ -12,4 +12,4 @@ DOMAIN-SUFFIX,gh-proxy.com
 # yinliu
 DOMAIN-SUFFIX,xxxh.de
 DOMAIN-SUFFIX,union-optech.com
-
+SRC-IP-CIDR,23.146.40.200,DIRECT
