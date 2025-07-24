@@ -5,8 +5,7 @@ DOMAIN-SUFFIX,28.al
 # nanfeng
 DOMAIN-SUFFIX,nanflix.net
 # mobai
-DOMAIN-SUFFIX,mobaiemby.site
-DOMAIN-KEYWORD,emby-myg
+DOMAIN-SUFFIX,m.mobaiemby.site
 #yuebing
 DOMAIN-SUFFIX,emby.my
 # wenjian
@@ -25,3 +24,14 @@ DOMAIN-SUFFIX,younoyes.com
 DOMAIN-SUFFIX,3767483.xyz
 #yezi
 DOMAIN-SUFFIX,yezi.my
+#2次元
+DOMAIN-SUFFIX,cdn.bgp.yt
+#xingtu
+DOMAIN-SUFFIX,us4.staryuki.me
+DOMAIN-SUFFIX,us3.staryuki.me
+#youqibing
+DOMAIN-SUFFIX,heisi.org
+#tanhua
+DOMAIN-SUFFIX,tanhuatv.site
+
+
