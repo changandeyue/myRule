@@ -10,6 +10,7 @@ IP-CIDR,178.239.124.220/8
 DOMAIN,mygs.mobaiemby.site
 #yuebing
 DOMAIN,a.emby.my
+DOMAIN-SUFFIX,mobai.sbs
 #yuebing
 #DOMAIN,emby.younoyes.com
 DOMAIN,jp.younoyes.com
