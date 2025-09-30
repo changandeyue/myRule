@@ -6,13 +6,14 @@
 # DOMAIN-SUFFIX,immortalwrt.org
 # DOMAIN-SUFFIX,vsean.net
 # GitHub 反代 CDN
+DOMAIN-SUFFIX,dns.army
+DOMAIN-SUFFIX,33343141.xyz
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,github.boki.moe
 DOMAIN-SUFFIX,gh-proxy.com
 # yinliu
 DOMAIN-SUFFIX,xxxh.de
 DOMAIN,mail.union-optech.com
-DOMAIN-SUFFIX,dns.army
-DOMAIN-SUFFIX,33343141.xyz
+
 
 
