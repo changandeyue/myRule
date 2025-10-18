@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,ld2j.top
 DOMAIN-SUFFIX,liustar.click
 IP-CIDR,23.146.40.200/32,no-resolve
 #shu
-#DOMAIN-SUFFIX,mcjoker.xyz
+DOMAIN-SUFFIX,mcjoker.xyz
 #nezha
 DOMAIN-SUFFIX,nezhasu.com
 #younoyes
