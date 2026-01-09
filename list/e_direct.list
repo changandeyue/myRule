@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,gm.yezi.my
 #myg
 DOMAIN,mcdn.mobaiemby.site
 IP-CIDR,178.239.124.220/8
-DOMAIN,mygs.mobaiemby.site
+DOMAIN,mygcns.mobaiemby.site
 #yuebing
 DOMAIN,a.emby.my
 DOMAIN-SUFFIX,mobai.sbs
